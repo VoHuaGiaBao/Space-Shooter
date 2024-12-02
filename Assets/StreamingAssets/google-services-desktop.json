@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026297748857",
+    "firebase_url": "https://mobile-space-shooter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-space-shooter",
+    "storage_bucket": "mobile-space-shooter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026297748857:android:80e2ab5d84310105a4a3a8",
+        "android_client_info": {
+          "package_name": "com.APTCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026297748857-4nkb5gg7rj0olc96dkiks4h9crq0t6cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPmzP2Vr-UzSF620DFgy4pHG4w0SvbOUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026297748857-4nkb5gg7rj0olc96dkiks4h9crq0t6cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

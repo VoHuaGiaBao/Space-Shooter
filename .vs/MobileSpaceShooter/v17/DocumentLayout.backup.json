@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|c:\\users\\gia bao\\mobilespaceshooter\\assets\\scrips\\enemy\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\enemy\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|c:\\users\\gia bao\\mobilespaceshooter\\assets\\scrips\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|c:\\users\\gia bao\\mobilespaceshooter\\assets\\scrips\\enemy\\eliteenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\enemy\\eliteenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|c:\\users\\gia bao\\mobilespaceshooter\\assets\\scrips\\manager\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\manager\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|c:\\users\\gia bao\\mobilespaceshooter\\assets\\scrips\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{989CFF2F-2F9B-6732-463D-BC854160A729}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Enemy\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Enemy\\BossController.cs",
+              "ToolTip": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Enemy\\BossController.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Enemy\\BossController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv3UAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:52:23.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Manager\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Manager\\Audio\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Manager\\Audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Manager\\Audio\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:49:13.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Enemy\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:44:50.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EliteEnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Enemy\\EliteEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Enemy\\EliteEnemyController.cs",
+              "ToolTip": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Enemy\\EliteEnemyController.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Enemy\\EliteEnemyController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv3wAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:44:47.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Gia Bao\\MobileSpaceShooter\\Assets\\Scrips\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:26:46.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
